@@ -1,4 +1,4 @@
-# Facial Expression Detection and Video Classification
+# Video Classification: Facial Expression Detection
 
 Learning to recognize a person's facial expressions on a video takes two steps.  The first step is object detection.  The algorithm should be able to see a video and and be able to recognize a person's face. This object detect section of the algorithm is done with the Open CV (Computer Vision) library from Python.
 
