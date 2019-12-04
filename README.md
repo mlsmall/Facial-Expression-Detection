@@ -10,9 +10,9 @@ The dataset used was from the Kaggle facial expression recognition competition, 
 
 ## Results
 <img src="https://github.com/mlsmall/Facial-Expression-Detection/blob/master/Expressions/happy.png" width="360" />
-<img src="https://github.com/mlsmall/Facial-Expression-Detection/blob/master/Expressions/scared.png" width="360" />
-<img src="https://github.com/mlsmall/Facial-Expression-Detection/blob/master/Expressions/sad.png" width="360" />
 <img src="https://github.com/mlsmall/Facial-Expression-Detection/blob/master/Expressions/surprised.png" width="360" />
+<img src="https://github.com/mlsmall/Facial-Expression-Detection/blob/master/Expressions/sad.png" width="360" />
+<img src="https://github.com/mlsmall/Facial-Expression-Detection/blob/master/Expressions/scared.png" width="360" />
 <img src="https://github.com/mlsmall/Facial-Expression-Detection/blob/master/Expressions/angry.png" width="360" />
 <img src="https://github.com/mlsmall/Facial-Expression-Detection/blob/master/Expressions/neutral.png" width="360" />
 
