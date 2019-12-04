@@ -8,6 +8,15 @@ After the face is detected, the algorithm uses a CNN model to classify the perso
 
 The dataset used was from the Kaggle facial expression recognition competition, which can be found [here](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data). It contains over 35,000 images, with each one classified with one of the following 7 emotions: (0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral).
 
+## Results
+<img src="https://github.com/mlsmall/Facial-Expression-Detection/blob/master/Expressions/happy.png" width="360" />
+<img src="https://github.com/mlsmall/Facial-Expression-Detection/blob/master/Expressions/scared.png" width="360" />
+<img src="https://github.com/mlsmall/Facial-Expression-Detection/blob/master/Expressions/sad.png" width="360" />
+<img src="https://github.com/mlsmall/Facial-Expression-Detection/blob/master/Expressions/surprised.png" width="360" />
+<img src="https://github.com/mlsmall/Facial-Expression-Detection/blob/master/Expressions/angry.png" width="360" />
+<img src="https://github.com/mlsmall/Facial-Expression-Detection/blob/master/Expressions/neutral.png" width="360" />
+
+
 ## References
 
 The following sources were used to help create the models in this repo:
